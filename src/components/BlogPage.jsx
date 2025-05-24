@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import blog from "../assets/blog.jpg";
+import blog from "/assets/blog.jpg";
 import "../style/blog.css";
 
 const fadeIn = {
